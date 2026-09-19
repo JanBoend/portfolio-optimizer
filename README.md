@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
 
+> **Quant portfolio** — [quant-engine](https://github.com/JanBoend/quant-engine) · [icm-strategies](https://github.com/JanBoend/icm-strategies) · [market-regime-detector](https://github.com/JanBoend/market-regime-detector) · [options-pricer](https://github.com/JanBoend/options-pricer) · **portfolio-optimizer**
+
 Portfolio construction toolkit: Markowitz mean-variance optimisation versus a Calmar-optimised grid search. Applied to 10 systematic trading strategies.
 
 ## Methods
